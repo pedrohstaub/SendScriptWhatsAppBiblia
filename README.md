@@ -1,12 +1,10 @@
-# SendScriptWhatsApp
+# SendScriptWhatsAppBiblia
 
-Código para enviar o Script inteiro de Shrek ou Bee Movie para seus amigos ou grupos do WhatsApp
+Código para enviar o biblia para seus amigos hereges.
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abra [bibliaWhatsapp.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
