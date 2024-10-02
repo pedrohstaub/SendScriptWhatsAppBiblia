@@ -4,7 +4,9 @@ Código para enviar o biblia para seus amigos hereges.
 
 ## Utilização
 
-Abra [bibliaWhatsapp.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [bibliaWhatsapp.js](https://github.com/pedrohstaub/SendScriptWhatsAppBiblia/blob/main/bibliaWhatsapp.js)
+
+Caso o navegador não permita exibir tudo devido ao tamanho do arquivo clique em View Raw.
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
